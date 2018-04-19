@@ -1,9 +1,9 @@
-Go Hello World Demo
-===================
+Go SecretBox Seal & Open Demo
+=============================
 
 ```
 brew install go
+go get
 go run hello.go
 ```
 
-You will see `Hello, go!`
